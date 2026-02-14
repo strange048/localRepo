@@ -1,1 +1,1 @@
-console.log("hiasdsadml")
+const a ="string"
